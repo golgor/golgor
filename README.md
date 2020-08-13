@@ -25,12 +25,6 @@ Fiverr, , Steam , Github, Medium, Topcoder Facebook, hackaday, freelancer, , Kic
 https://simpleicons.org/
 https://shields.io/
 
-Coding:
-
-
-Tools:
-
-
 OS:
 Debian,  Ubuntu,
 
@@ -50,18 +44,21 @@ Companies:
 Husqvarna
 
 -->
+#### Legend
+![](https://img.shields.io/badge/Want_to_learn-informational?style=flat&color=c93622)
+![](https://img.shields.io/badge/Good_knowledge-informational?style=flat&color=4788ba)
+![](https://img.shields.io/badge/Acquainted_with-informational?style=flat&color=369c3b)
+
 ### Coding
-![](https://img.shields.io/badge/Code-Latex-informational?style=flat&logo=latex&logoColor=white&color=c93622)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=c93622)
+![](https://img.shields.io/badge/Code-Latex-informational?style=flat&logo=latex&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Code-Embedded_C-informational?style=flat&logo=c&logoColor=white&color=4788ba)
-
-#### Want to learn
-![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=4788ba)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4788ba)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=4788ba)
-![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=4788ba)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=c93622)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=c93622)
+![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=c93622)
+![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=c93622)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=c93622)
 
 ### Tools
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=4788ba)
