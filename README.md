@@ -8,10 +8,7 @@ I'm Robert currently working with electrical engineering. I have always been int
 
 I love technology and other complex systems in any shape and always try to understand how and why they work. Anything from molecular reactions to engineering or the human psyche.
 
-[2]: https://www.linkedin.com/in/robert-nystroem/
-https://simpleicons.org/icons/linkedin.svg
-
-- 📫 You can find me on <img src="https://simpleicons.org/icons/linkedin.svg" width="20" style="background-color:#0077B5">
+- 📫 You can find me on <img src="./icons/linkedin.svg" width="20">
 
 - 💬 Ask me about **Anything**
 
