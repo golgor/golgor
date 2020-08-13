@@ -8,26 +8,60 @@ I'm Robert currently working with electrical engineering. I have always been int
 
 I love technology and other complex systems in any shape and always try to understand how and why they work. Anything from molecular reactions to engineering or the human psyche.
 
-- 📫 You can find me on <img src="./icons/linkedin.svg" width="20">
+<!--
+Fiverr, , Steam , Github, Medium, Topcoder Facebook, hackaday, freelancer, , Kickstarter, Indiegogo(?),  Twitter, Discord, Codewars, Duolingo, 
+-->
 
-- 💬 Ask me about **Anything**
+- 📫 You can find me on
+
+  [![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=4788ba)](https://www.linkedin.com/in/robert-nystroem/)
+  [![](https://img.shields.io/badge/StackOverflow-informational?style=flat&logo=stackoverflow&logoColor=white&color=FE7A16)](https://stackoverflow.com/users/7615664/robert-nystr%c3%b6m)
+  [![](https://img.shields.io/badge/Upwork-informational?style=flat&logo=Upwork&logoColor=white&color=6FDA44)](https://www.upwork.com/freelancers/~012c3e43b00e8e2eb2?viewMode=1)
+
+- 💬 Ask me about Python, Electrical Engineering and Electronics.
 
 ## Technology
 <!--
 https://simpleicons.org/
 https://shields.io/
 
-Shell Bash, Tools Git WSL Databases?
+Coding:
+Go, C, Latex, MySQL(!), SQLite, Flask, Python,pandas, PyPi,
+
+Tools:
+Visual Studio Code, Docker,Jira, Google drive, Word, Excel, powerpoint?, Microsoft Teams Confluence, Jupyter,Overleaf, Anaconda, Atlassian,
+
+OS:
+Debian,  Ubuntu,
+
+AI:
+Keras, Tensorflow,
+
+Learning:
+Udemy, Skillshare Codeacademy,, Khan Academy, Coursera
+
+Tech:
+NFC, Raspberry Pi, SpaceX, Arduino, Sparkfun, Bluetooth, Postman, 
+
+Personal choices:
+google,Spotify, Android,Evernote, Dashlane,Coinbase, VLC, Google assistant,Filezilla,Microsoft, 
+
+Cloud:
+ Amazon AWS , Google Cloud,
+
+Companies:
+Husqvarna
+
 -->
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=windows&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=windows&logoColor=white&color=4788ba)
-[![](https://img.shields.io/badge/Shell-Starship-informational?style=flat&logo=windows&logoColor=white&color=4788ba)](https://starship.rs/)
-![](https://img.shields.io/badge/Tools-WSL-informational?style=flat&logo=linux&logoColor=white&color=369c3b)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=linux&logoColor=white&color=369c3b)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=linux&logoColor=white&color=c93622)
+[![](https://img.shields.io/badge/Shell-Starship-informational?style=flat&logo=linux&logoColor=white&color=4788ba)](https://starship.rs/)
+![](https://img.shields.io/badge/Tools-WSL-informational?style=flat&logo=ubuntu&logoColor=white&color=369c3b)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=369c3b)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=c93622)
 ![](https://img.shields.io/badge/Code-TeX-informational?style=flat&logo=linux&logoColor=white&color=c93622)
 
 <!--
