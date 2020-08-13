@@ -26,10 +26,10 @@ https://simpleicons.org/
 https://shields.io/
 
 Coding:
-Go, C, Latex, MySQL(!), SQLite, Flask, Python,pandas, PyPi,
+
 
 Tools:
-Visual Studio Code, Docker,Jira, Google drive, Word, Excel, powerpoint?, Microsoft Teams Confluence, Jupyter,Overleaf, Anaconda, Atlassian,
+
 
 OS:
 Debian,  Ubuntu,
@@ -43,9 +43,6 @@ Udemy, Skillshare Codeacademy,, Khan Academy, Coursera
 Tech:
 NFC, Raspberry Pi, SpaceX, Arduino, Sparkfun, Bluetooth, Postman, 
 
-Personal choices:
-google,Spotify, Android,Evernote, Dashlane,Coinbase, VLC, Google assistant,Filezilla,Microsoft, 
-
 Cloud:
  Amazon AWS , Google Cloud,
 
@@ -53,16 +50,43 @@ Companies:
 Husqvarna
 
 -->
+### Coding
+![](https://img.shields.io/badge/Code-Latex-informational?style=flat&logo=latex&logoColor=white&color=c93622)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=c93622)
+![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Code-Embedded_C-informational?style=flat&logo=c&logoColor=white&color=4788ba)
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=4788ba)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=4788ba)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=windows&logoColor=white&color=4788ba)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=windows&logoColor=white&color=4788ba)
-[![](https://img.shields.io/badge/Shell-Starship-informational?style=flat&logo=linux&logoColor=white&color=4788ba)](https://starship.rs/)
+#### Want to learn
+Go, C, MySQL, SQLite, Flask
+
+### Tools
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudio&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Tools-PyPI-informational?style=flat&logo=pypi&logoColor=white&color=369c3b)
 ![](https://img.shields.io/badge/Tools-WSL-informational?style=flat&logo=ubuntu&logoColor=white&color=369c3b)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=369c3b)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=c93622)
-![](https://img.shields.io/badge/Code-TeX-informational?style=flat&logo=linux&logoColor=white&color=c93622)
+![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Tools-Confluence-informational?style=flat&logo=confluence&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Tools-Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=4788ba)
+
+
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=microsoftteams&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudio&logoColor=white&color=4788ba)
+, Google drive, Word, Excel, powerpoint, Microsoft Teams
+
+#### Want to learn
+Docker,
+
+### Operatives
+![](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=debian&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=windows&logoColor=white&color=4788ba)
+[![](https://img.shields.io/badge/Shell-Starship-informational?style=flat&logo=linux&logoColor=white&color=4788ba)](https://starship.rs/)
+
+### Personal choices
+![](https://img.shields.io/badge/Tools-Overleaf-informational?style=flat&logo=overleaf&logoColor=white&color=4788ba)
+google, Spotify, Android, Evernote, Dashlane, Coinbase, VLC, Google assistant, Filezilla,Microsoft, WSL
 
 <!--
 **golgor/golgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
