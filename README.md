@@ -31,7 +31,7 @@ https://shields.io/
 ![](https://img.shields.io/badge/Acquainted_with-informational?style=flat&color=369c3b)
 ![](https://img.shields.io/badge/Want_to_learn-informational?style=flat&color=c93622)
 
-### Coding
+### Skills
 ![](https://img.shields.io/badge/Code-Latex-informational?style=flat&logo=latex&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Code-Embedded_C-informational?style=flat&logo=c&logoColor=white&color=4788ba)
@@ -43,8 +43,6 @@ https://shields.io/
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=c93622)
 ![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=c93622)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=c93622)
-
-### Tools
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=369c3b)
