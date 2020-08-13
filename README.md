@@ -37,7 +37,6 @@ https://simpleicons.org/
 https://shields.io/
 -->
 
-### Skills
 ![](https://img.shields.io/badge/Good_knowledge-informational?style=flat&color=4788ba)
 ![](https://img.shields.io/badge/Acquainted_with-informational?style=flat&color=369c3b)
 ![](https://img.shields.io/badge/Want_to_learn-informational?style=flat&color=c93622)
@@ -48,6 +47,7 @@ https://shields.io/
 ![](https://img.shields.io/badge/Code-Latex-informational?style=flat&logo=latex&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Code-Embedded_C-informational?style=flat&logo=c&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Tools-PowerToys-informational?style=flat&logo=microsoft&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Code-Keras-informational?style=flat&logo=Keras&logoColor=white&color=369c3b)
 ![](https://img.shields.io/badge/Code-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white&color=369c3b)
 ![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=369c3b)
@@ -71,7 +71,6 @@ https://shields.io/
 ![](https://img.shields.io/badge/Microsoft-Powerpoint-informational?style=flat&logo=microsoft-powerpoint&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=c93622)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=c93622)
-Power Toys
 
 ---
 
@@ -93,7 +92,6 @@ Power Toys
 [![](https://img.shields.io/badge/Shell-Starship-informational?style=flat&logo=linux&logoColor=white&color=4788ba)](https://starship.rs/)
 
 ---
-
 #### Learning platforms
 
 ![](https://img.shields.io/badge/Learning-Udemy-informational?style=flat&logo=udemy&logoColor=white&color=4788ba)
@@ -102,7 +100,8 @@ Power Toys
 ![](https://img.shields.io/badge/Learning-Khan_Academy-informational?style=flat&logo=khan-academy&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Learning-Coursera-informational?style=flat&logo=coursera&logoColor=white&color=369c3b)
 
-### Personal choices and Interests
+---
+#### Personal choices and Interests
 ![](https://img.shields.io/badge/Overleaf-informational?style=flat&logo=overleaf&logoColor=white&color=47A141)
 ![](https://img.shields.io/badge/Google-informational?style=flat&logo=google&logoColor=white&color=4285F4)
 ![](https://img.shields.io/badge/Spotify-informational?style=flat&logo=spotify&logoColor=white&color=1ED760)
@@ -118,7 +117,6 @@ Power Toys
 ![](https://img.shields.io/badge/Google_drive-informational?style=flat&logo=google-drive&logoColor=white&color=4285F4)
 ![](https://img.shields.io/badge/SpaceX-informational?style=flat&logo=spacex&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Husqvarna-informational?style=flat&logo=husqvarna&logoColor=white&color=273A60)
-
 
 <!--
 **golgor/golgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
