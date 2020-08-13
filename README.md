@@ -8,6 +8,24 @@ I'm Robert currently working with electrical engineering. I have always been int
 
 I love technology in any shape and always try to understand how and why they work. Anything from molecular reactions to engineering or the human psyche.
 
+## Technology
+<!--
+https://simpleicons.org/
+https://shields.io/
+
+Shell Bash, Tools Git WSL Databases?
+-->
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=windows&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=windows&logoColor=white&color=4788ba)
+[![](https://img.shields.io/badge/Shell-Starship-informational?style=flat&logo=windows&logoColor=white&color=4788ba)](https://starship.rs/)
+![](https://img.shields.io/badge/Tools-WSL-informational?style=flat&logo=linux&logoColor=white&color=369c3b)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=linux&logoColor=white&color=369c3b)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=linux&logoColor=white&color=c93622)
+![](https://img.shields.io/badge/Code-TeX-informational?style=flat&logo=linux&logoColor=white&color=c93622)
+
 <!--
 **golgor/golgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -45,7 +63,20 @@ Below I will list some of the books, articles, videos or other sources of inform
 Did you know sleeping is one of the most important "activities" to be able to learn?
 
 ## How to reach me 📱
-Linkedin
+<!-- Links to your social media accounts 
+[1]: https://twitter.com/Martin_Heinz_
+-->
+
+[2]: https://www.linkedin.com/in/robert-nystroem/
+
+<!-- Icons 
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[![Twitter][1.2]][1]
+-->
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+You can find me on [![LinkedIn][2.2]][2].
 
 ## Fun facts 🤣
 
