@@ -57,27 +57,32 @@ Husqvarna
 ![](https://img.shields.io/badge/Code-Embedded_C-informational?style=flat&logo=c&logoColor=white&color=4788ba)
 
 #### Want to learn
-Go, C, MySQL, SQLite, Flask
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4788ba)
 
 ### Tools
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudio&logoColor=white&color=4788ba)
-![](https://img.shields.io/badge/Tools-PyPI-informational?style=flat&logo=pypi&logoColor=white&color=369c3b)
-![](https://img.shields.io/badge/Tools-WSL-informational?style=flat&logo=ubuntu&logoColor=white&color=369c3b)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=369c3b)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=4788ba)
-![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Tools-Confluence-informational?style=flat&logo=confluence&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=bitbucket&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Tools-PyPI-informational?style=flat&logo=pypi&logoColor=white&color=369c3b)
+![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Tools-Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=4788ba)
 
-
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=microsoftteams&logoColor=white&color=4788ba)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudio&logoColor=white&color=4788ba)
-, Google drive, Word, Excel, powerpoint, Microsoft Teams
+![](https://img.shields.io/badge/Microsoft-Teams-informational?style=flat&logo=microsoft-teams&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Microsoft-Word-informational?style=flat&logo=microsoft-word&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Microsoft-Excel-informational?style=flat&logo=microsoft-excel&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Microsoft-Powerpoint-informational?style=flat&logo=microsoft-powerpoint&logoColor=white&color=4788ba)
 
 #### Want to learn
-Docker,
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4788ba)
 
 ### Operatives
+![](https://img.shields.io/badge/OS-WSL-informational?style=flat&logo=ubuntu&logoColor=white&color=369c3b)
 ![](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=debian&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=4788ba)
@@ -86,7 +91,7 @@ Docker,
 
 ### Personal choices
 ![](https://img.shields.io/badge/Tools-Overleaf-informational?style=flat&logo=overleaf&logoColor=white&color=4788ba)
-google, Spotify, Android, Evernote, Dashlane, Coinbase, VLC, Google assistant, Filezilla,Microsoft, WSL
+google, Spotify, Android, Evernote, Dashlane, Coinbase, VLC, Google assistant, Filezilla,Microsoft, WSL, Google drive
 
 <!--
 **golgor/golgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
