@@ -38,6 +38,7 @@ https://shields.io/
 ![](https://img.shields.io/badge/Code-Keras-informational?style=flat&logo=Keras&logoColor=white&color=369c3b)
 ![](https://img.shields.io/badge/Code-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white&color=369c3b)
 ![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=369c3b)
+![](https://img.shields.io/badge/Tech-Postman-informational?style=flat&logo=postman&logoColor=white&color=369c3b)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=c93622)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=c93622)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=c93622)
@@ -57,12 +58,17 @@ https://shields.io/
 ![](https://img.shields.io/badge/Microsoft-Excel-informational?style=flat&logo=microsoft-excel&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Microsoft-Powerpoint-informational?style=flat&logo=microsoft-powerpoint&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=c93622)
+<!-- Tech -->
+![](https://img.shields.io/badge/Tech-NFC-informational?style=flat&logo=nfc&logoColor=white&color=c93622)
+![](https://img.shields.io/badge/Tech-Bluetooth-informational?style=flat&logo=bluetooth&logoColor=white&color=c93622)
+![](https://img.shields.io/badge/Tech-Raspberry_Pi-informational?style=flat&logo=raspberry-pi&logoColor=white&color=c93622)
+![](https://img.shields.io/badge/Tech-SpaceX-informational?style=flat&logo=spacex&logoColor=white&color=c93622)
+![](https://img.shields.io/badge/Tools-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=c93622)
+![](https://img.shields.io/badge/Tools-Sparkfun-informational?style=flat&logo=Sparkfun&logoColor=white&color=c93622)
 
-NFC, Raspberry Pi, SpaceX, Arduino, Sparkfun, Bluetooth, Postman
+![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=c93622)
+![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white&color=c93622)
 
-Amazon AWS , Google Cloud,
-
-### Operatives
 ![](https://img.shields.io/badge/OS-WSL-informational?style=flat&logo=ubuntu&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=debian&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=4788ba)
@@ -70,8 +76,11 @@ Amazon AWS , Google Cloud,
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=windows&logoColor=white&color=4788ba)
 [![](https://img.shields.io/badge/Shell-Starship-informational?style=flat&logo=linux&logoColor=white&color=4788ba)](https://starship.rs/)
 
-### Learning
-Udemy, Skillshare, Codeacademy, Khan Academy, Coursera
+![](https://img.shields.io/badge/Learning-Udemy-informational?style=flat&logo=udemy&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Learning-Skillshare-informational?style=flat&logo=skillshare&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Learning-Codecademy-informational?style=flat&logo=codecademy&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Learning-Khan_Academy-informational?style=flat&logo=khan-academy&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Learning-Coursera-informational?style=flat&logo=coursera&logoColor=white&color=4788ba)
 
 ### Personal choices  
 ![](https://img.shields.io/badge/Choices-Overleaf-informational?style=flat&logo=overleaf&logoColor=white&color=4788ba)
@@ -88,7 +97,8 @@ Udemy, Skillshare, Codeacademy, Khan Academy, Coursera
 ![](https://img.shields.io/badge/Choices-WSL-informational?style=flat&logo=ubuntu&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Choices-Google_drive-informational?style=flat&logo=google-drive&logoColor=white&color=4788ba)
 
-Husqvarna
+![](https://img.shields.io/badge/Choices-Husqvarna-informational?style=flat&logo=husqvarna&logoColor=white&color=4788ba)
+
 
 <!--
 **golgor/golgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
