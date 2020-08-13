@@ -148,8 +148,9 @@ Below I will list some of the books, articles, videos or other sources of inform
 * Why We Sleep by Matthew Parker
 * Life 3.0 by Max Tegmark
 
-## Fun facts 🤣
-Stuff
+## Cool stuff
+[English to Regex](https://losslesshq.com/)
+
 
 ## Stats
 [![Golgors's github stats](https://github-readme-stats.vercel.app/api?username=golgor&show_icons=true&theme=gruvbox)](https://github.com/golgor)
