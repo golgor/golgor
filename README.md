@@ -20,28 +20,10 @@ Fiverr, , Steam , Github, Medium, Topcoder Facebook, hackaday, freelancer, , Kic
 
 - 💬 Ask me about Python, Electrical Engineering and Electronics.
 
-## Technology
 <!--
 https://simpleicons.org/
 https://shields.io/
 
-OS:
-Debian,  Ubuntu,
-
-AI:
-Keras, Tensorflow,
-
-Learning:
-Udemy, Skillshare Codeacademy,, Khan Academy, Coursera
-
-Tech:
-NFC, Raspberry Pi, SpaceX, Arduino, Sparkfun, Bluetooth, Postman, 
-
-Cloud:
- Amazon AWS , Google Cloud,
-
-Companies:
-Husqvarna
 
 -->
 #### Legend
@@ -53,6 +35,8 @@ Husqvarna
 ![](https://img.shields.io/badge/Code-Latex-informational?style=flat&logo=latex&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Code-Embedded_C-informational?style=flat&logo=c&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Code-Keras-informational?style=flat&logo=Keras&logoColor=white&color=369c3b)
+![](https://img.shields.io/badge/Code-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white&color=369c3b)
 ![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=369c3b)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=c93622)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=c93622)
@@ -69,12 +53,15 @@ Husqvarna
 ![](https://img.shields.io/badge/Tools-PyPI-informational?style=flat&logo=pypi&logoColor=white&color=369c3b)
 ![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=369c3b)
 ![](https://img.shields.io/badge/Tools-Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=369c3b)
-
 ![](https://img.shields.io/badge/Microsoft-Teams-informational?style=flat&logo=microsoft-teams&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Microsoft-Word-informational?style=flat&logo=microsoft-word&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Microsoft-Excel-informational?style=flat&logo=microsoft-excel&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Microsoft-Powerpoint-informational?style=flat&logo=microsoft-powerpoint&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=c93622)
+
+NFC, Raspberry Pi, SpaceX, Arduino, Sparkfun, Bluetooth, Postman
+
+Amazon AWS , Google Cloud,
 
 ### Operatives
 ![](https://img.shields.io/badge/OS-WSL-informational?style=flat&logo=ubuntu&logoColor=white&color=4788ba)
@@ -83,6 +70,9 @@ Husqvarna
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=windows&logoColor=white&color=4788ba)
 [![](https://img.shields.io/badge/Shell-Starship-informational?style=flat&logo=linux&logoColor=white&color=4788ba)](https://starship.rs/)
+
+### Learning
+Udemy, Skillshare, Codeacademy, Khan Academy, Coursera
 
 ### Personal choices  
 ![](https://img.shields.io/badge/Choices-Overleaf-informational?style=flat&logo=overleaf&logoColor=white&color=4788ba)
@@ -98,6 +88,8 @@ Husqvarna
 ![](https://img.shields.io/badge/Choices-Windows-informational?style=flat&logo=windows&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Choices-WSL-informational?style=flat&logo=ubuntu&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Choices-Google_drive-informational?style=flat&logo=google-drive&logoColor=white&color=4788ba)
+
+Husqvarna
 
 <!--
 **golgor/golgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
