@@ -9,29 +9,39 @@ I'm Robert currently working with electrical engineering. I have always been int
 I love technology and other complex systems in any shape and always try to understand how and why they work. Anything from molecular reactions to engineering or the human psyche.
 
 <!--
-Fiverr, , Steam , Github, Medium, Topcoder Facebook, hackaday, freelancer, , Kickstarter, Indiegogo(?),  Twitter, Discord, Codewars, Duolingo, 
+Fiverr, Topcoder, Facebook, hackaday, freelancer,
 -->
 
-- 📫 You can find me on
+#### 📫 Where can you find me?
 
-  [![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=4788ba)](https://www.linkedin.com/in/robert-nystroem/)
-  [![](https://img.shields.io/badge/StackOverflow-informational?style=flat&logo=stackoverflow&logoColor=white&color=FE7A16)](https://stackoverflow.com/users/7615664/robert-nystr%c3%b6m)
-  [![](https://img.shields.io/badge/Upwork-informational?style=flat&logo=Upwork&logoColor=white&color=6FDA44)](https://www.upwork.com/freelancers/~012c3e43b00e8e2eb2?viewMode=1)
+[![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=4788ba)](https://www.linkedin.com/in/robert-nystroem/)
+[![](https://img.shields.io/badge/StackOverflow-informational?style=flat&logo=stackoverflow&logoColor=white&color=FE7A16)](https://stackoverflow.com/users/7615664/robert-nystr%c3%b6m)
+[![](https://img.shields.io/badge/Upwork-informational?style=flat&logo=upwork&logoColor=white&color=6FDA44)](https://www.upwork.com/freelancers/~012c3e43b00e8e2eb2?viewMode=1)
+[![](https://img.shields.io/badge/Steam-informational?style=flat&logo=steam&logoColor=white&color=000000)](https://store.steampowered.com/)
+[![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=white&color=181717)](https://github.com/golgor/)
+[![](https://img.shields.io/badge/Medium-informational?style=flat&logo=medium&logoColor=white&color=12100E)](https://medium.com/@golgafrincham_94223)
+[![](https://img.shields.io/badge/Facebook-informational?style=flat&logo=facebook&logoColor=white&color=1877F2)](https://www.facebook.com/Golgor86)
+[![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/Golgor_86)
+[![](https://img.shields.io/badge/Discord-informational?style=flat&logo=discord&logoColor=white&color=7289DA)](https://discord.com/)
+[![](https://img.shields.io/badge/Slack-informational?style=flat&logo=kickstarter&logoColor=white&color=4A154B)](https://slack.com/)
+[![](https://img.shields.io/badge/Codewars-informational?style=flat&logo=codewars&logoColor=white&color=AD2C27)](https://www.codewars.com/users/golgor)
+[![](https://img.shields.io/badge/Duolingo-informational?style=flat&logo=duolingo&logoColor=white&color=58CC02)](https://www.duolingo.com/)
+[![](https://img.shields.io/badge/Kickstarter-informational?style=flat&logo=kickstarter&logoColor=white&color=05CE78)](https://www.kickstarter.com/)
 
-- 💬 Ask me about Python, Electrical Engineering and Electronics.
+
+#### 💬 What can you ask me?
+Ask me about Python, Electrical Engineering and Electronics.
 
 <!--
 https://simpleicons.org/
 https://shields.io/
-
-
 -->
-#### Legend
+
+### Skills
 ![](https://img.shields.io/badge/Good_knowledge-informational?style=flat&color=4788ba)
 ![](https://img.shields.io/badge/Acquainted_with-informational?style=flat&color=369c3b)
 ![](https://img.shields.io/badge/Want_to_learn-informational?style=flat&color=c93622)
 
-### Skills
 ![](https://img.shields.io/badge/Code-Latex-informational?style=flat&logo=latex&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Code-Embedded_C-informational?style=flat&logo=c&logoColor=white&color=4788ba)
