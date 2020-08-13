@@ -6,7 +6,7 @@
 
 I'm Robert currently working with electrical engineering. I have always been interested in coding, but it is something I previously haven't had enough time doing. As I'm always keen on learning new things I'm currently looking into improving my Python skills. Also interested in Golang.
 
-I love technology in any shape and always try to understand how and why they work. Anything from molecular reactions to engineering or the human psyche.
+I love technology and other complex systems in any shape and always try to understand how and why they work. Anything from molecular reactions to engineering or the human psyche.
 
 ## Technology
 <!--
