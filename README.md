@@ -100,7 +100,7 @@ https://shields.io/
 ![](https://img.shields.io/badge/Learning-Coursera-informational?style=flat&logo=coursera&logoColor=white&color=369c3b)
 
 ---
-#### Personal choices and Interests
+## Personal choices and Interests
 ![](https://img.shields.io/badge/Overleaf-informational?style=flat&logo=overleaf&logoColor=white&color=47A141)
 ![](https://img.shields.io/badge/Google-informational?style=flat&logo=google&logoColor=white&color=4285F4)
 ![](https://img.shields.io/badge/Spotify-informational?style=flat&logo=spotify&logoColor=white&color=1ED760)
