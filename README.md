@@ -12,7 +12,7 @@ I love technology and other complex systems in any shape and always try to under
 Fiverr, Topcoder, Facebook, hackaday, freelancer,
 -->
 
-#### 📫 Where can you find me?
+#### How to reach me 📫
 
 [![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=4788ba)](https://www.linkedin.com/in/robert-nystroem/)
 [![](https://img.shields.io/badge/StackOverflow-informational?style=flat&logo=stackoverflow&logoColor=white&color=FE7A16)](https://stackoverflow.com/users/7615664/robert-nystr%c3%b6m)
@@ -29,7 +29,7 @@ Fiverr, Topcoder, Facebook, hackaday, freelancer,
 [![](https://img.shields.io/badge/Kickstarter-informational?style=flat&logo=kickstarter&logoColor=white&color=05CE78)](https://www.kickstarter.com/)
 
 
-#### 💬 What can you ask me?
+#### What can you ask me? 💬
 Ask me about Python, Electrical Engineering and Electronics.
 
 <!--
@@ -139,43 +139,13 @@ Below I will list some of the books, articles, videos or other sources of inform
 * Life 3.0 by Max Tegmark
 
 ## Currently learning 🌱
-Did you know sleeping is one of the most important "activities" to be able to learn?
-
-## How to reach me 📱
-<!-- Links to your social media accounts 
-[1]: https://twitter.com/Martin_Heinz_
--->
-
-
-<!-- Icons 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[![Twitter][1.2]][1]
--->
-
-
-
-
+Stuff I'm currently trying to improve.
 
 ## Fun facts 🤣
+
 
 ## Stats
 [![Golgors's github stats](https://github-readme-stats.vercel.app/api?username=golgor&show_icons=true&theme=gruvbox)](https://github.com/golgor)
 
 ## Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golgor&hide=tex)](https://github.com/golgor)
-
-
-<h1 align="center">Hi 👋, I'm Robert</h1>
-<h3 align="center">A passionate technology nerd</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=golgor" alt="golgor" /> </p>
-
-- 🔭 I’m currently working on **Everything that is cool**
-
-- 💬 Ask me about **Anything**
-
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golgor&layout=compact&hide=html" alt="golgor" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=golgor&show_icons=true" alt="golgor" /></p>
-
-
