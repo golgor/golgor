@@ -37,11 +37,10 @@ https://simpleicons.org/
 https://shields.io/
 -->
 
+---
 ![](https://img.shields.io/badge/Good_knowledge-informational?style=flat&color=4788ba)
 ![](https://img.shields.io/badge/Acquainted_with-informational?style=flat&color=369c3b)
 ![](https://img.shields.io/badge/Want_to_learn-informational?style=flat&color=c93622)
-
----
 
 #### Coding and Tools
 ![](https://img.shields.io/badge/Code-Latex-informational?style=flat&logo=latex&logoColor=white&color=4788ba)
