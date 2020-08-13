@@ -5,6 +5,10 @@
 
 [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
+![Golgors's github stats](https://github-readme-stats.vercel.app/api?username=golgor&show_icons=true&theme=radical)
+
+- [Top Languages Card](#top-languages-card)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
