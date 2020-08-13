@@ -89,9 +89,20 @@ Husqvarna
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=windows&logoColor=white&color=4788ba)
 [![](https://img.shields.io/badge/Shell-Starship-informational?style=flat&logo=linux&logoColor=white&color=4788ba)](https://starship.rs/)
 
-### Personal choices
-![](https://img.shields.io/badge/Tools-Overleaf-informational?style=flat&logo=overleaf&logoColor=white&color=4788ba)
-google, Spotify, Android, Evernote, Dashlane, Coinbase, VLC, Google assistant, Filezilla,Microsoft, WSL, Google drive
+### Personal choices  
+![](https://img.shields.io/badge/Choices-Overleaf-informational?style=flat&logo=overleaf&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Choices-Google-informational?style=flat&logo=google&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Choices-Spotify-informational?style=flat&logo=spotify&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Choices-Android-informational?style=flat&logo=android&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Choices-Evernote-informational?style=flat&logo=evernote&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Choices-Dashlane-informational?style=flat&logo=dashlane&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Choices-Coinbase-informational?style=flat&logo=coinbase&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Choices-VLC-informational?style=flat&logo=vlc-media-player&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Choices-Google_assistant-informational?style=flat&logo=Google-assistant&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Choices-Filezilla-informational?style=flat&logo=filezilla&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Choices-Windows-informational?style=flat&logo=windows&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Choices-WSL-informational?style=flat&logo=ubuntu&logoColor=white&color=4788ba)
+![](https://img.shields.io/badge/Choices-Google_drive-informational?style=flat&logo=google-drive&logoColor=white&color=4788ba)
 
 <!--
 **golgor/golgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
