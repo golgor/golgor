@@ -8,6 +8,13 @@ I'm Robert currently working with electrical engineering. I have always been int
 
 I love technology and other complex systems in any shape and always try to understand how and why they work. Anything from molecular reactions to engineering or the human psyche.
 
+[2]: https://www.linkedin.com/in/robert-nystroem/
+https://simpleicons.org/icons/linkedin.svg
+
+- 📫 You can find me on <img src="https://simpleicons.org/icons/linkedin.svg" width="20" style="background-color:#0077B5">
+
+- 💬 Ask me about **Anything**
+
 ## Technology
 <!--
 https://simpleicons.org/
@@ -67,16 +74,15 @@ Did you know sleeping is one of the most important "activities" to be able to le
 [1]: https://twitter.com/Martin_Heinz_
 -->
 
-[2]: https://www.linkedin.com/in/robert-nystroem/
 
 <!-- Icons 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [![Twitter][1.2]][1]
 -->
 
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-You can find me on [![LinkedIn][2.2]][2].
+
+
 
 ## Fun facts 🤣
 
@@ -85,3 +91,19 @@ You can find me on [![LinkedIn][2.2]][2].
 
 ## Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golgor&hide=tex)](https://github.com/golgor)
+
+
+<h1 align="center">Hi 👋, I'm Robert</h1>
+<h3 align="center">A passionate technology nerd</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=golgor" alt="golgor" /> </p>
+
+- 🔭 I’m currently working on **Everything that is cool**
+
+- 💬 Ask me about **Anything**
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golgor&layout=compact&hide=html" alt="golgor" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=golgor&show_icons=true" alt="golgor" /></p>
+
+
