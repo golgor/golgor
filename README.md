@@ -44,7 +44,6 @@ https://shields.io/
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=c93622)
 ![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=c93622)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=c93622)
-<!-- Tools -->
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=369c3b)
@@ -58,14 +57,12 @@ https://shields.io/
 ![](https://img.shields.io/badge/Microsoft-Excel-informational?style=flat&logo=microsoft-excel&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Microsoft-Powerpoint-informational?style=flat&logo=microsoft-powerpoint&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=c93622)
-<!-- Tech -->
 ![](https://img.shields.io/badge/Tech-NFC-informational?style=flat&logo=nfc&logoColor=white&color=369c3b)
 ![](https://img.shields.io/badge/Tech-Bluetooth-informational?style=flat&logo=bluetooth&logoColor=white&color=369c3b)
 ![](https://img.shields.io/badge/Tech-Raspberry_Pi-informational?style=flat&logo=raspberry-pi&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Tech-SpaceX-informational?style=flat&logo=spacex&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Tools-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Tools-Sparkfun-informational?style=flat&logo=Sparkfun&logoColor=white&color=4788ba)
-<!-- Cloud -->
 ![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=369c3b)
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white&color=369c3b)
 ![](https://img.shields.io/badge/OS-WSL-informational?style=flat&logo=ubuntu&logoColor=white&color=4788ba)
