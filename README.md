@@ -29,8 +29,8 @@ Fiverr, Topcoder, Facebook, hackaday, freelancer,
 [![](https://img.shields.io/badge/Kickstarter-informational?style=flat&logo=kickstarter&logoColor=white&color=05CE78)](https://www.kickstarter.com/)
 
 
-#### What can you ask me? 💬
-Ask me about Python, Electrical Engineering and Electronics.
+#### Ask me about... 💬
+Python, Electrical Engineering and Electronics.
 
 <!--
 https://simpleicons.org/
@@ -119,18 +119,16 @@ https://guides.github.com/features/mastering-markdown/
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-## Currently working on 🔭
-bla bla bla
+## I'm currently working on... 🔭
+Implementing a Flask RESTFUL API to control LEDs connected to a RPi. Intrested in homeautomation and this might be a first step!
+
+## I'm currently learning... 🌱
+Stuff I'm currently trying to improve.
 
 ## Recommended reading 📚
 Below I will list some of the books, articles, videos or other sources of information that I feel have impacted me the most.
@@ -138,14 +136,9 @@ Below I will list some of the books, articles, videos or other sources of inform
 * Why We Sleep by Matthew Parker
 * Life 3.0 by Max Tegmark
 
-## Currently learning 🌱
-Stuff I'm currently trying to improve.
-
 ## Fun facts 🤣
-
+Stuff
 
 ## Stats
 [![Golgors's github stats](https://github-readme-stats.vercel.app/api?username=golgor&show_icons=true&theme=gruvbox)](https://github.com/golgor)
-
-## Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golgor&hide=tex)](https://github.com/golgor)
