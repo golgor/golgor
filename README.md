@@ -7,6 +7,9 @@
 
 ![Golgors's github stats](https://github-readme-stats.vercel.app/api?username=golgor&show_icons=true&theme=radical)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 - [Top Languages Card](#top-languages-card)
 
 Here are some ideas to get you started:
