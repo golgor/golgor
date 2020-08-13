@@ -42,6 +42,9 @@ https://shields.io/
 ![](https://img.shields.io/badge/Acquainted_with-informational?style=flat&color=369c3b)
 ![](https://img.shields.io/badge/Want_to_learn-informational?style=flat&color=c93622)
 
+---
+
+#### Coding and Tools
 ![](https://img.shields.io/badge/Code-Latex-informational?style=flat&logo=latex&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Code-Embedded_C-informational?style=flat&logo=c&logoColor=white&color=4788ba)
@@ -68,12 +71,18 @@ https://shields.io/
 ![](https://img.shields.io/badge/Microsoft-Powerpoint-informational?style=flat&logo=microsoft-powerpoint&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=c93622)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=c93622)
+Power Toys
+
+---
+
+#### Tech and Electronics
+
 ![](https://img.shields.io/badge/Tech-NFC-informational?style=flat&logo=nfc&logoColor=white&color=369c3b)
 ![](https://img.shields.io/badge/Tech-Bluetooth-informational?style=flat&logo=bluetooth&logoColor=white&color=369c3b)
 ![](https://img.shields.io/badge/Tech-Raspberry_Pi-informational?style=flat&logo=raspberry-pi&logoColor=white&color=4788ba)
-![](https://img.shields.io/badge/Tech-SpaceX-informational?style=flat&logo=spacex&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Tools-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Tools-Sparkfun-informational?style=flat&logo=Sparkfun&logoColor=white&color=4788ba)
+
 ![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=369c3b)
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white&color=369c3b)
 ![](https://img.shields.io/badge/OS-WSL-informational?style=flat&logo=ubuntu&logoColor=white&color=4788ba)
@@ -82,28 +91,33 @@ https://shields.io/
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=windows&logoColor=white&color=4788ba)
 [![](https://img.shields.io/badge/Shell-Starship-informational?style=flat&logo=linux&logoColor=white&color=4788ba)](https://starship.rs/)
+
+---
+
+#### Learning platforms
+
 ![](https://img.shields.io/badge/Learning-Udemy-informational?style=flat&logo=udemy&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Learning-Skillshare-informational?style=flat&logo=skillshare&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Learning-Codecademy-informational?style=flat&logo=codecademy&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Learning-Khan_Academy-informational?style=flat&logo=khan-academy&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Learning-Coursera-informational?style=flat&logo=coursera&logoColor=white&color=369c3b)
 
-### Personal choices  
-![](https://img.shields.io/badge/Choices-Overleaf-informational?style=flat&logo=overleaf&logoColor=white&color=4788ba)
-![](https://img.shields.io/badge/Choices-Google-informational?style=flat&logo=google&logoColor=white&color=4788ba)
-![](https://img.shields.io/badge/Choices-Spotify-informational?style=flat&logo=spotify&logoColor=white&color=4788ba)
-![](https://img.shields.io/badge/Choices-Android-informational?style=flat&logo=android&logoColor=white&color=4788ba)
-![](https://img.shields.io/badge/Choices-Evernote-informational?style=flat&logo=evernote&logoColor=white&color=4788ba)
-![](https://img.shields.io/badge/Choices-Dashlane-informational?style=flat&logo=dashlane&logoColor=white&color=4788ba)
-![](https://img.shields.io/badge/Choices-Coinbase-informational?style=flat&logo=coinbase&logoColor=white&color=4788ba)
-![](https://img.shields.io/badge/Choices-VLC-informational?style=flat&logo=vlc-media-player&logoColor=white&color=4788ba)
-![](https://img.shields.io/badge/Choices-Google_assistant-informational?style=flat&logo=Google-assistant&logoColor=white&color=4788ba)
-![](https://img.shields.io/badge/Choices-Filezilla-informational?style=flat&logo=filezilla&logoColor=white&color=4788ba)
-![](https://img.shields.io/badge/Choices-Windows-informational?style=flat&logo=windows&logoColor=white&color=4788ba)
-![](https://img.shields.io/badge/Choices-WSL-informational?style=flat&logo=ubuntu&logoColor=white&color=4788ba)
-![](https://img.shields.io/badge/Choices-Google_drive-informational?style=flat&logo=google-drive&logoColor=white&color=4788ba)
-
-![](https://img.shields.io/badge/Choices-Husqvarna-informational?style=flat&logo=husqvarna&logoColor=white&color=4788ba)
+### Personal choices and Interests
+![](https://img.shields.io/badge/Overleaf-informational?style=flat&logo=overleaf&logoColor=white&color=47A141)
+![](https://img.shields.io/badge/Google-informational?style=flat&logo=google&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/Spotify-informational?style=flat&logo=spotify&logoColor=white&color=1ED760)
+![](https://img.shields.io/badge/Android-informational?style=flat&logo=android&logoColor=white&color=3DDC84)
+![](https://img.shields.io/badge/Evernote-informational?style=flat&logo=evernote&logoColor=white&color=00A82D)
+![](https://img.shields.io/badge/Dashlane-informational?style=flat&logo=dashlane&logoColor=white&color=007C97)
+![](https://img.shields.io/badge/Coinbase-informational?style=flat&logo=coinbase&logoColor=white&color=0667D0)
+![](https://img.shields.io/badge/VLC-informational?style=flat&logo=vlc-media-player&logoColor=white&color=FF8800)
+![](https://img.shields.io/badge/Google_assistant-informational?style=flat&logo=Google-assistant&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/Filezilla-informational?style=flat&logo=filezilla&logoColor=white&color=BF0000)
+![](https://img.shields.io/badge/Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D6)
+![](https://img.shields.io/badge/WSL-informational?style=flat&logo=ubuntu&logoColor=white&color=FCC624)
+![](https://img.shields.io/badge/Google_drive-informational?style=flat&logo=google-drive&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/SpaceX-informational?style=flat&logo=spacex&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Husqvarna-informational?style=flat&logo=husqvarna&logoColor=white&color=273A60)
 
 
 <!--
