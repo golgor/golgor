@@ -8,6 +8,8 @@ I'm Robert currently working with electrical engineering. I have always been int
 
 I love technology and other complex systems in any shape and always try to understand how and why they work. Anything from molecular reactions to engineering or the human psyche.
 
+This page is currently a work in progress!
+
 <!--
 Fiverr, Topcoder, Facebook, hackaday, freelancer,
 -->
@@ -137,10 +139,11 @@ Here are some ideas to get you started:
 -->
 
 ## I'm currently working on... 🔭
-Implementing a Flask RESTFUL API to control LEDs connected to a RPi. Intrested in homeautomation and this might be a first step!
+* Implementing a Flask RESTFUL API to control LEDs connected to a RPi. Intrested in homeautomation and this might be a first step!
+* Web scraping and process data about apartments!
 
 ## I'm currently learning... 🌱
-Stuff I'm currently trying to improve.
+* Trying to get a more formal education with Linux through Linux Foundation.
 
 ## Recommended reading 📚
 Below I will list some of the books, articles, videos or other sources of information that I feel have impacted me the most.
