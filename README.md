@@ -92,7 +92,7 @@ https://shields.io/
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=4788ba)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=windows&logoColor=white&color=4788ba)
 [![](https://img.shields.io/badge/Shell-Starship-informational?style=flat&logo=linux&logoColor=white&color=4788ba)](https://starship.rs/)
-[![](https://img.shields.io/badge/Shell-zsh/ohmyzsh-informational?style=flat&logo=linux&logoColor=white&color=4788ba)]
+![](https://img.shields.io/badge/Shell-zsh/ohmyzsh-informational?style=flat&logo=linux&logoColor=white&color=4788ba)
 
 ---
 #### Learning platforms
