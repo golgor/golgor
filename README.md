@@ -23,7 +23,7 @@ Fiverr, Topcoder, Facebook, hackaday, freelancer,
 [![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=white&color=181717)](https://github.com/golgor/)
 [![](https://img.shields.io/badge/Medium-informational?style=flat&logo=medium&logoColor=white&color=12100E)](https://medium.com/@golgafrincham_94223)
 [![](https://img.shields.io/badge/Facebook-informational?style=flat&logo=facebook&logoColor=white&color=1877F2)](https://www.facebook.com/Golgor86)
-[![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/Golgor_86)
+[![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/Neustrom86)
 [![](https://img.shields.io/badge/Discord-informational?style=flat&logo=discord&logoColor=white&color=7289DA)](https://discord.com/)
 [![](https://img.shields.io/badge/Slack-informational?style=flat&logo=kickstarter&logoColor=white&color=4A154B)](https://slack.com/)
 [![](https://img.shields.io/badge/Codewars-informational?style=flat&logo=codewars&logoColor=white&color=AD2C27)](https://www.codewars.com/users/golgor)
